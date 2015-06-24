@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #64923c; 
+    background-color: #64923c;
     /* #64923c; */
 }
 
@@ -275,8 +275,8 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: #95ba74;
-    /* background: rgba(240,95,64,.9); */ 
+    background: rgba(149, 186, 116, .9);
+    /* background: rgba(240,95,64,.9); */
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
